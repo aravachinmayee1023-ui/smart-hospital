@@ -1,0 +1,6 @@
+{
+  "name": "Smart Hospital Bed & Medical Resource Platform",
+  "description": "Backend architecture, REST APIs, GeoJSON spatial engine, 24-hour Recharts bed occupancy trends, and command center for hospital bed tracking and emergency medical resource management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
